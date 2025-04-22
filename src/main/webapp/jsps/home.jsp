@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Kubernetes African Developer Training Program – Congratulations, you made it!</h1>
-<h1 align="center">You're welcomed to the Kubernetes African Developer Training Program, starting May 5, 2025, with a reminder to complete the necessary steps before commencement.</h1>
+<h2 align="center">You're welcomed to the Kubernetes African Developer Training Program, starting May 5, 2025, with a reminder to complete the necessary steps before commencement.</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
