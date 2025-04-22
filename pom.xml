@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>JoeMens Technologies</name>
+		<url>http://joemens.com/</url>
 	</organization>
 
         <properties>
@@ -95,13 +95,13 @@
   <distributionManagement>
       <repository>
         <id>nexus</id>
-        <name>Landmark Technologies Releases Nexus Repository</name>
+        <name>JoeMens Technologies Releases Nexus Repository</name>
         <url>http://3.139.240.82:8081/repository/tesla-be-releases/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
-        <name>Landmark Technologies Snapshot Nexus Repository </name>
+        <name>JoeMens Technologies Snapshot Nexus Repository </name>
         <url>http://3.139.240.82:8081/repository/tesla-be-snapshots/</url>
       </snapshotRepository>
       
