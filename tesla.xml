@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<!-- build triggers -->
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>tesla-web-application</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOT</version> 
@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>JoeMens Technologies</name>
+		<url>http://joemenstechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>JoeMens Technologies Releases Nexus Repository</name>
 	      <url>http://3.137.166.218:8081/repository/tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>JoeMens Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.137.166.218:8081/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
 	    
