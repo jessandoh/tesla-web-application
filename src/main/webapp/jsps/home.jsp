@@ -4,20 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>JoeMensTechnologies- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project.</h1>
-<h1 align="center">Landmark Software Solutions (LSS)  are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising billionaires IT professionals accross the nations of the World.
-	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        Landmark Technologies, the Pride of Africa.
-	Class39 DevOps MasterClass started on Feb 8, 2025.
-        Class30 DevOps MasterClass will start on June 8, 2025.
-        Please invite all your contacts and friends for this life changing course.
-</h1>
+<h1 align="center">Kubernetes African Developer Training Program – Congratulations, you made it!</h1>
+<h1 align="center">You're welcomed to the Kubernetes African Developer Training Program, starting May 5, 2025, with a reminder to complete the necessary steps before commencement.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -39,12 +32,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                JoeMens Technologies, 
+		Ottawa, Canada
+		+1 647 937 0850,
+		joemenstechnologies@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:joemenstechnologies@gmail.com">Mail to JoeMens Technologies</a>
 	</span>
 </div>
 <hr>
